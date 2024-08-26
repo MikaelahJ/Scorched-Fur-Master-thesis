@@ -1,5 +1,8 @@
 # Scorched Fur, a vertical slice in Unreal Engine 5 with C++
 
+**PLAY HERE** 
+[SCORCHED FUR](https://mikaelahj.itch.io/scorched-fur)
+
 **Master thesis for Yrgo Game Creator Programmer:**
 [Mikaelah_Jenkins_Examensarbete](https://github.com/MikaelahJ/Scorched-Fur---Vertical-slice-with-C-/blob/main/GP22_Mikaelah_Jenkins_ExArb.pdf)
 
